@@ -12,8 +12,12 @@ sections:
       natutuklasan, natututuhan at sa paanuman ay kapakipakinabang sa amin.
     image: /images/fried-lumpia-toge-bowl.jpg
     section_id: hero
-    title: "Mabuhay! Welcome po kayo sa Ulampinoy \U0001F44B\U0001F3FC"
+    title: "Mabuhay! Welcome po sa Ulampinoy \U0001F44B\U0001F3FC"
     type: section_hero
+  - bg: gray
+    section_id: recent-posts
+    title: Latest Posts
+    type: section_posts
   - bg: gray
     featureslist:
       - actions:
@@ -80,10 +84,6 @@ sections:
     subtitle: This is an optional description for the call to action block.
     title: This Is Call To Action Block!
     type: section_cta
-  - bg: gray
-    section_id: recent-posts
-    title: Latest Posts
-    type: section_posts
 menus:
   main:
     title: Home
