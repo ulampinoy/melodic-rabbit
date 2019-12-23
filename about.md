@@ -4,7 +4,7 @@ subtitle: ''
 img_path: ''
 menus:
   secondary:
-    title: ''
+    title: About
     weight: 1
 layout: page
 ---
