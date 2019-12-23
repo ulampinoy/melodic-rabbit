@@ -1,7 +1,7 @@
-title: Stackbit Azimuth Theme
+title: UlamPinoy Official Website
 baseurl: /
 permalink: '/:title/'
-palette: blue
+palette: gray
 header:
   has_nav: true
   logo_img: /images/up-logo-type.svg
@@ -9,7 +9,7 @@ header:
     actions:
       - label: Sign Up
         url: /signup
-  title: Azimuth
+  title: UlamPinoy
 footer:
   content: '&copy; Stackbit. All rights reserved.'
   has_nav: true

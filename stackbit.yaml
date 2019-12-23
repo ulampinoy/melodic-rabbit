@@ -51,7 +51,8 @@ models:
           - purple
           - green
           - orange
-        default: blue
+          - gray
+        default: gray
       - type: object
         name: header
         label: Header Configuration

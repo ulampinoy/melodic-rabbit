@@ -238,3 +238,89 @@
     }
   }
 }
+
+
+.palette-gray {
+  a {
+    &:hover,
+    &:focus {
+      border-color: _palette(accent-gray);
+      color: _palette(accent-gray);
+    }
+  }
+
+  blockquote {
+    border-color: _palette(accent-gray);
+  }
+
+  button,
+  input[type="submit"],
+  input[type="button"],
+  input[type="reset"],
+  a.button {
+    background: _palette(accent-gray);
+    border-color: _palette(accent-gray);
+    color: #fff;
+  }
+
+  .button.secondary {
+    background: transparent;
+    color: _palette(accent-gray);
+
+    &:hover,
+    &:focus,
+    &:active {
+      background: _palette(accent-gray);
+      color: #fff;
+    }
+  }
+
+  .button.white {
+    background: #fff;
+    border-color: transparent;
+    color: _palette(primary);
+  }
+
+  .underline {
+    &:after {
+      border-color: _palette(accent-gray);
+    }
+  }
+
+  .icon-plus {
+    background: _palette(accent-gray);
+  }
+
+  .review-text {
+    &:before {
+      color: _palette(accent-gray);
+    }
+  }
+
+  .plan {
+    &.highlight {
+      .plan-inside {
+        border-color: _palette(accent-gray);
+      }
+
+      .button {
+        background: _palette(accent-gray);
+        color: #fff;
+      }
+    }
+  }
+
+  .block {
+    &.bg-accent {
+      background: _palette(accent-gray);
+      background: -webkit-linear-gradient(left,_palette(accent-gray), _palette(accent-gray-alt));
+      background: linear-gradient(to right,_palette(accent-gray), _palette(accent-gray-alt));
+    }
+
+    &-copy {
+      a {
+        color: #fff;
+      }
+    }
+  }
+}

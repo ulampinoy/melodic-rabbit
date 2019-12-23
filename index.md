@@ -5,9 +5,9 @@ sections:
       - label: See what's new
         url: /blog
     content: >-
-      Ang Ulampinoy ay koleksyon online ng aming[mga lutung-bahay
-      recipes](https://www.ulampinoy.com/video/). Kasama rin ang[aming
-      blog](https://www.ulampinoy.com/blog/)kung saan ibinabahagi naming
+      Ang Ulampinoy ay koleksyon online ng aming [mga lutung-bahay
+      recipes](https://www.ulampinoy.com/video/). Kasama rin ang [aming
+      blog](https://www.ulampinoy.com/blog/) kung saan ibinabahagi naming
       adbentyur sa pagkain at ang iba't-iba pang mga bagay na aming
       natutuklasan, natututuhan at sa paanuman ay kapakipakinabang sa amin.
     image: /images/fried-lumpia-toge-bowl.jpg
@@ -70,7 +70,7 @@ sections:
     section_id: reviews
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+      semper libero id sodales.
     title: Testimonials
     type: section_reviews
   - actions:
