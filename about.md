@@ -1,16 +1,29 @@
 ---
 title: About Us
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
-img_path: images/about.jpg
+subtitle: ''
+img_path: ''
 menus:
   secondary:
-    title: About Us
+    title: ''
     weight: 1
 layout: page
 ---
+# 👨🏻👩🏻👧🏻👦🏻
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Kami ay pamilyang Filipino na kasalukuyang naninirahan sa España. Family project namin ang Ulampinoy Atbp. Matatagpuan dito ang koleksyon ng aming mga lutung-bahay, video recipes, blog at marami pang iba.
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+## 📜 PANIMULA
+
+agsimula ang Ulampinoy bilang isang food journal ng mga recipes na niluluto namin sa bahay at marami pang ibang masasarap na tuklas nang kami nag-migrate. Kalaunan, ginawa namin ang YouTube cooking channel bilang isang family project na sa paanuman ay magsilbing guide sa aming mga anak kapag lumaki na sila at matutong magluto. Ang bawat video recipe ay may kuwento at ala-ala sa aming masasayang panahon magkakasama sa kusina!
+
+``
+
+Sa kasalukuyan, ang [Ulampinoy YouTube channel](https://www.youtube.com/user/ulampinoy/videos) ay may **mahigit 57,640**subscribers at ang mga video recipes ay napanood ng **higit sa 9 million beses.**
+
+## 🎯 ANG AMING TUNGUHIN
+
+Pinagsisikapan naming bumuo ng pang-pamilyang reperensya at koleksyon ng mga cooking recipes na ginawa namin sa aming sariling bersiyon. Sisikapin rin naming ilahad ito sa simple at kawili-wiling paraan. Samantala, ibabahagi rin namin ang iba't-iba pang mga bagay na natutuklasan, natututuhan at kapakipakinabang.
+
+## 🙏🏼 PASASALAMAT
+
+Pinasasalamatan namin ang aming mga kaibigan sa [Netlify](https://www.netlify.com/) sa kanilang bukas-palad na nagde-deploy ng patuluyan sa website ng Ulampinoy. Sa [GitHub](https://github.com/ulampinoy) naman nakalagak ang repositoryo ng kodigo. Ang kasalukuyang *development* at *build*ng site ay gawa gamit ang *static site generator* na [J](https://www.gatsbyjs.org/)ekyll. Ang mga *webfonts* ay inilalan ng [Google Fonts](https://fonts.google.com/). Maraming salamat sa inyong lahat at **more power!**
