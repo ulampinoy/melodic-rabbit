@@ -1036,6 +1036,11 @@ collections:
         label: Content
         required: false
         hint: Page content
+      - widget: markdown
+        name: body
+        label: Aside
+        required: true
+        hint: Aside content
     filter:
       field: layout
       value: post
