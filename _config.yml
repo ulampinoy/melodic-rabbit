@@ -1,6 +1,6 @@
 title: UlamPinoy Official Website
 baseurl: /
-permalink: '/:title/'
+permalink: '/:slug/'
 palette: gray
 header:
   has_nav: true

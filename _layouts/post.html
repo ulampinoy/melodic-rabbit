@@ -7,6 +7,7 @@ layout: body
 
     <article class="post post-full">
       <header class="post-header">
+        <span>{{ page.subtitle }}</span>
         <h1 class="post-title">{{ page.title }}</h1>
       </header><!-- .post-header -->
       {% assign img_path_is_not_empty = page.img_path | is_not_empty %}
@@ -15,10 +16,10 @@ layout: body
         <img src="{{ page.img_path | relative_url }}" alt="{{ page.title }}" />
       </div><!-- .post-thumbnail -->
       {% endif %}
-      {% assign subtitle_is_not_empty = page.subtitle | is_not_empty %}
-      {% if subtitle_is_not_empty %}
+      {% assign excerpt_is_not_empty = page.excerpt | is_not_empty %}
+      {% if excerpt_is_not_empty %}
       <div class="post-subtitle">
-        {{ page.subtitle }}
+        {{ page.excerpt }}
       </div><!-- .post-subtitle -->
       {% endif %}
       <div class="post-content">
@@ -64,6 +65,6 @@ layout: body
       </div>
     </nav>
     -->
-  
+
   </div><!-- .inner-medium -->
 </div><!-- .outer-->
