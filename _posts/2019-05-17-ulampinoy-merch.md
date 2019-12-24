@@ -4,8 +4,13 @@ subtitle: COOL SWAGS
 date: '2019-05-17'
 thumb_img_path: /images/up-merch-wrap.jpg
 img_path: /images/up-merch-wrap.jpg
-excerpt: 'Support Ulampinoy. Grab yourself a merch from the Ulampinoy Sari-sari store.'
+excerpt: Support Ulampinoy. Grab yourself a merch from the Ulampinoy Sari-sari store.
 layout: post
+aside:
+  aside_img_path: /images/ulampinoy-merch-tshirt-worn.jpg
+  aside_text: >-
+    The new Ulampinoy logo features a regal fish and a humble egg in a stylized
+    script showcasing UP as Ulampinoy's initial letters.
 ---
 We are so glad to announce that we have launched the Ulampinoy Store and now serving online orders. 🎉🎉🎉🎉 As an initial offering, we are selling our very first official merch - a T-shirt, a tote bag and a mug.
 
