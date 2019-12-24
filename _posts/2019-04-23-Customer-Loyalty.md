@@ -4,7 +4,7 @@ subtitle: Support Ulampinoy. Grab yourself a merch from the Ulampinoy Sari-sari 
 date: '2019-04-23'
 thumb_img_path: /images/up-merch-wrap.jpg
 img_path: /images/up-merch-wrap.jpg
-excerpt: ''
+excerpt: 'Support Ulampinoy. Grab yourself a merch from the Ulampinoy Sari-sari store.'
 layout: post
 ---
 We are so glad to announce that we have launched the Ulampinoy Store and now serving online orders. 🎉🎉🎉🎉 As an initial offering, we are selling our very first official merch - a T-shirt, a tote bag and a mug.
