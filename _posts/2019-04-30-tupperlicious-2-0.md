@@ -10,14 +10,10 @@ layout: post
 aside: >-
   #### ALAM MO BA?
 
-
   Ang noodles na gamit sa Japchae ay gawa sa kamote o sweet potato. Masustansya
   at may interesanteng tekstura ito.
 
-
-  ![Sweet potato starch
-  noodle](https://www.ulampinoy.com/static/images/sweet-potato-noodles.jpg?nf_resize=fit&w=600
-  "Sweet potato starch noodle")
+  ![](https://www.ulampinoy.com/static/images/sweet-potato-noodles.jpg?nf_resize=fit&w=600)
 ---
 Maraming bentaha kapag nagbabaon ka. Makakain mo ang gusto kahit pa tira lang iyan sa mga inulam ninyo. O dahil sinipag ka at naihanda mo ito sa gabi pa lang o sa umaga dahil gumising ka ng mas maaga para magluto ng almusal damay na rin siyempre ang baon mo sa pananghalian.
 

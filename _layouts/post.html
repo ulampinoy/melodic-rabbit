@@ -25,11 +25,26 @@ layout: body
       <div class="post-content">
         {{ content }}
       </div><!-- .post-content -->
+      {% assign aside_img_path_is_not_empty = page.aside_img_path | is_not_empty %}
+      {% if aside_img_path_is_not_empty %}
+      <div class="post-thumbnail">
+        <img src="{{ page.aside_img_path | relative_url }}" alt="{{ page.title }}" />
+      </div><!-- .post-thumbnail -->
+      {% endif %}
+      {% assign aside_text_is_not_empty = page.aside_text | is_not_empty %}
+      {% if aside_text_is_not_empty %}
+      <div class="post-aside">
+          {{ page.aside_text }}
+        </div><!-- .post-content -->
+      {% endif %}
+
       <footer class="post-meta">
         <time class="published"
           datetime="{{ page.date | date: '%Y-%m-%d %H:%M' }}">{{ page.date | date: '%A, %B %e, %Y' }}</time>
       </footer><!-- .post-meta -->
+
     </article><!-- .post -->
+
 
     <!-- Next/previous post navigation TBD -->
     <!--
