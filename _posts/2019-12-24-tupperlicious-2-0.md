@@ -17,15 +17,15 @@ Ang baon ko ay pinaghalong tirang ulam at kung kailangan pa, hahanap o iimbento 
 
 Japchae (Korean noodles), kimchi at brown rice sa ilalim, curried scrambled eggs
 
-Ang back story ng baon: Para maiba naman ang handa,***Japchae & Gyoza***ang ginawa namin para sa aming mga bisita sa bahay noong Linggo. Korean noodle dish ang Japchae. Japanese dumpling naman ang Gyoza. Talagang nag-enjoy ang barkada sa mga*unexpected dishes!*
+Ang back story ng baon: Para maiba naman ang handa, ***Japchae & Gyoza*** ang ginawa namin para sa aming mga bisita sa bahay noong Linggo. Korean noodle dish ang Japchae. Japanese dumpling naman ang Gyoza. Talagang nag-enjoy ang barkada sa mga*unexpected dishes!*
 
 ![Kimchi sa ref](https://www.ulampinoy.com/static/images/gyoza-cooking-pan.jpg?nf_resize=fit&w=960)
 
-**Ang Gyoza**ay niluluto sa pan skillet at hindi sa steamer gaya ng ibang dumplings. Ang \*technique\* na ito ay ang nagbibigay ng lutong dahil sa \*crust\* nito sa base pero makatas pa rin dahil para na rin itong napasingawan kapag tinakpan.
+**Ang Gyoza** ay niluluto sa pan skillet at hindi sa steamer gaya ng ibang dumplings. Ang \*technique\* na ito ay ang nagbibigay ng lutong dahil sa \*crust\* nito sa base pero makatas pa rin dahil para na rin itong napasingawan kapag tinakpan.
 
 ![Kimchi sa ref](https://www.ulampinoy.com/static/images/japchae-pot.jpg?nf_resize=fit&w=960)
 
-**Ang Japchae**ay isang Korean dish kung saan niluluto ng hiwa-hiwalay ang mga sangkap at saka paghahaluin lahat sa huli
+**Ang Japchae** ay isang Korean dish kung saan niluluto ng hiwa-hiwalay ang mga sangkap at saka paghahaluin lahat sa huli
 
 May natira pang Japchae pero sold-out ang Gyoza! Ang kimchi naman ay lagi na riyan lang sa ref. Check.
 
@@ -41,7 +41,7 @@ Sakto na para sa baon! At sa maraming kaso ng tirang ulam, mas masarap ito sa su
 
 ![Baon bento](https://www.ulampinoy.com/static/images/baon-bento-japchae.jpg?nf_resize=fit&w=960)
 
-**Baon tips:**Huwag gawing lutung-luto ang scrambled eggs kapag inihanda dahil matatapos ang luto nito kapag inilagay mo, para initin ang baon, sa microwave.
+**Baon tips:** Huwag gawing lutung-luto ang scrambled eggs kapag inihanda dahil matatapos ang luto nito kapag inilagay mo, para initin ang baon, sa microwave.
 
 ## BAON BOX: FISH CURRY FRIED RICE, GUISANTES CON JAMÓN & EGG STRIPS
 
