@@ -1037,9 +1037,9 @@ collections:
         required: false
         hint: Page content
       - widget: markdown
-        name: body
+        name: aside
         label: Aside
-        required: true
+        required: false
         hint: Aside content
     filter:
       field: layout
