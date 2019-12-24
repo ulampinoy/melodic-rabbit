@@ -49,6 +49,18 @@
   margin-bottom: 1.66667rem;
 }
 
+.post-content {
+  p {
+    font-size: 1.25rem;
+  }
+
+  h2 {
+    font-family: 'Exo 2', sans-serif;
+    font-size: 1.3rem;
+    letter-spacing: .08rem;
+  }
+}
+
 /* Post feed */
 .post-feed {
   display: -ms-flexbox;

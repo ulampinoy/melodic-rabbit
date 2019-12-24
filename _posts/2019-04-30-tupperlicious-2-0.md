@@ -1,10 +1,10 @@
 ---
 title: Tupperlicious 2.0
 date: 2019-04-30T15:01:22.954Z
+thumb_img_path: /images/baon-fish-curry-rice-ham-peas-eggs.jpg
 img_path: /images/baon-fish-curry-rice-ham-peas-eggs.jpg
 excerpt: >-
-  Nagbabalik ang seryeng ito dahil nagsimula uli akong maghanda ng baon sa
-  trabaho.
+  Nagbabalik ang seryeng ito dahil nagsimula uli akong maghanda ng baon sa trabaho.
 layout: post
 ---
 Maraming bentaha kapag nagbabaon ka. Makakain mo ang gusto kahit pa tira lang iyan sa mga inulam ninyo. O dahil sinipag ka at naihanda mo ito sa gabi pa lang o sa umaga dahil gumising ka ng mas maaga para magluto ng almusal damay na rin siyempre ang baon mo sa pananghalian.
