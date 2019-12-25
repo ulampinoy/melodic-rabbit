@@ -267,8 +267,8 @@
   a {
     &:hover,
     &:focus {
-      color: var(--pula);
-      text-decoration: none;
+      color: _palette(link-hover);
+      text-decoration: underline;
     }
   }
 

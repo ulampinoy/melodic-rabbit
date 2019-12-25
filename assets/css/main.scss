@@ -14,32 +14,36 @@
   --pilak: #e0e0e0;
   --usok: #909090;
   --ulap: #d0d0d0;
-  --bodyFont: "Source Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
-    sans-serif;
+  --bodyFont: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Helvetica, Arial, sans-serif;
 }
 
 // Font.
 $font: (
-  primary: (var(--bodyFont))
+  primary: (
+    var(--bodyFont)
+  )
 );
 
 // Palette.
 $palette: (
-  primary:           #212121,
-  secondary:           darken(#303030, 15%),
-  meta:                lighten(#303030, 20%),
-  border:              lighten(#303030, 70%),
-  bg:                var(--kanbas),
-  accent:            #0072ff,
-  accent-alt:        #00c6ff,
-  accent-purple:     #b5267b,
+  primary: #212121,
+  secondary: darken(#303030, 15%),
+  meta: lighten(#303030, 20%),
+  border: lighten(#303030, 70%),
+  bg: var(--kanbas),
+  accent: #0072ff,
+  accent-alt: #00c6ff,
+  accent-purple: #b5267b,
   accent-purple-alt: #632695,
-  accent-green:      #438945,
-  accent-green-alt:  #73bb75,
-  accent-orange:     #fe8c00,
+  accent-green: #438945,
+  accent-green-alt: #73bb75,
+  accent-orange: #fe8c00,
   accent-orange-alt: #f83600,
-  accent-gray:     #404040,
+  accent-gray: #404040,
   accent-gray-alt: #121918,
+  link: #4a6da7,
+  link-hover: #3a5684
 );
 
 @import "imports/functions";

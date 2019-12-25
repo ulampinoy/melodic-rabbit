@@ -10,16 +10,18 @@
   margin-bottom: 2.5rem;
 
   .post-title {
+    color: var(--uling);
+    font-size: 3rem;
+    font-weight: 600;
+    letter-spacing: -0.02rem;
     margin: 0 0 1.66667rem;
 
     a {
       border: 0;
-      color: inherit;
 
       &:hover,
       &:focus {
-        color: var(--pula);
-        text-decoration: none;
+        text-decoration: underline;
       }
     }
   }
@@ -28,6 +30,7 @@
 .post-subtitle {
   border-bottom: 1px solid _palette(border);
   font-size: 1.33333rem;
+  font-weight: 500;
   line-height: 1.5;
   margin-bottom: 1.66667rem;
   padding-bottom: 1.33333rem;
@@ -40,6 +43,8 @@
   line-height: 1.5;
   margin-bottom: 1.66667rem;
   padding-bottom: 1.33333rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
 }
 
 .post-thumbnail {
@@ -53,6 +58,7 @@
 
 aside {
   h3 {
+    color: var(--abo);
     font-size: 1.3rem;
   }
 }
@@ -70,9 +76,10 @@ aside {
 }
 
 .post-content {
+  padding: 0 3rem;
   p,
   li {
-    font-size: 1.33rem;
+    font-size: 1.4rem;
   }
 
   h2 {

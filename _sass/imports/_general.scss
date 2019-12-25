@@ -22,15 +22,14 @@ body {
 
 a {
   font-weight: 600;
-  color: _palette(primary);
+  color: _palette(link);
   text-decoration: none;
   -webkit-transition: border-color 0.15s ease-in-out, color 0.15s ease-in-out;
   transition: border-color 0.15s ease-in-out, color 0.15s ease-in-out;
 
   &:hover,
   &:focus {
-    color: var(--pula);
-    text-decoration: none;
+    text-decoration: underline;
   }
 }
 
