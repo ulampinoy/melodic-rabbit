@@ -75,8 +75,16 @@
   .block {
     &.bg-accent {
       background: _palette(accent-purple);
-      background: -webkit-linear-gradient(left,_palette(accent-purple), _palette(accent-purple-alt));
-      background: linear-gradient(to right,_palette(accent-purple), _palette(accent-purple-alt));
+      background: -webkit-linear-gradient(
+        left,
+        _palette(accent-purple),
+        _palette(accent-purple-alt)
+      );
+      background: linear-gradient(
+        to right,
+        _palette(accent-purple),
+        _palette(accent-purple-alt)
+      );
     }
   }
 }
@@ -154,8 +162,16 @@
   .block {
     &.bg-accent {
       background: _palette(accent-green);
-      background: -webkit-linear-gradient(left,_palette(accent-green), _palette(accent-green-alt));
-      background: linear-gradient(to right,_palette(accent-green), _palette(accent-green-alt));
+      background: -webkit-linear-gradient(
+        left,
+        _palette(accent-green),
+        _palette(accent-green-alt)
+      );
+      background: linear-gradient(
+        to right,
+        _palette(accent-green),
+        _palette(accent-green-alt)
+      );
     }
   }
 }
@@ -233,19 +249,26 @@
   .block {
     &.bg-accent {
       background: _palette(accent-orange);
-      background: -webkit-linear-gradient(left,_palette(accent-orange), _palette(accent-orange-alt));
-      background: linear-gradient(to right,_palette(accent-orange), _palette(accent-orange-alt));
+      background: -webkit-linear-gradient(
+        left,
+        _palette(accent-orange),
+        _palette(accent-orange-alt)
+      );
+      background: linear-gradient(
+        to right,
+        _palette(accent-orange),
+        _palette(accent-orange-alt)
+      );
     }
   }
 }
-
 
 .palette-gray {
   a {
     &:hover,
     &:focus {
-      border-color: _palette(accent-gray);
-      color: _palette(accent-gray);
+      color: var(--pula);
+      text-decoration: none;
     }
   }
 
@@ -313,8 +336,16 @@
   .block {
     &.bg-accent {
       background: _palette(accent-gray);
-      background: -webkit-linear-gradient(left,_palette(accent-gray), _palette(accent-gray-alt));
-      background: linear-gradient(to right,_palette(accent-gray), _palette(accent-gray-alt));
+      background: -webkit-linear-gradient(
+        left,
+        _palette(accent-gray),
+        _palette(accent-gray-alt)
+      );
+      background: linear-gradient(
+        to right,
+        _palette(accent-gray),
+        _palette(accent-gray-alt)
+      );
     }
 
     &-copy {

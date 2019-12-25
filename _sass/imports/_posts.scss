@@ -19,7 +19,8 @@
 
       &:hover,
       &:focus {
-        color: _palette(primary);
+        color: var(--pula);
+        text-decoration: none;
       }
     }
   }
@@ -64,9 +65,9 @@
   }
 
   h2 {
-    font-family: 'Exo 2', sans-serif;
+    font-family: "Exo 2", sans-serif;
     font-size: 1.3rem;
-    letter-spacing: .08rem;
+    letter-spacing: 0.08rem;
   }
 }
 
@@ -109,7 +110,7 @@
     background: #fff;
     border: 1px solid _palette(border);
     border-radius: 3px;
-    box-shadow: 0 3px 10px 0 rgba(_palette(primary),.1);
+    box-shadow: 0 3px 10px 0 rgba(_palette(primary), 0.1);
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;

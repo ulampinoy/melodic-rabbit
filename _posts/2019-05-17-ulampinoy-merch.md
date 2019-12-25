@@ -25,7 +25,7 @@ There are two ways to order the Ulampinoy merch:
 
 Additional designs, items and variations are all coming soon.
 
-So [please grab one (or two!)](https://teespring.com/stores/ulampinoy) for yourself or gift it to someone special in your life who lovingly makes those tasty*ulam*. Hope you enjoy the Ulampinoy merch!
+So [please grab one (or two!)](https://teespring.com/stores/ulampinoy) for yourself or gift it to someone special in your life who lovingly makes those tasty *ulam*. Hope you enjoy the Ulampinoy merch!
 
 In case you have any comments or suggestions, please do not hesitate [to reach us.](https://www.ulampinoy.com/about/#contact-us)
 
