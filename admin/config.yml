@@ -1036,22 +1036,16 @@ collections:
         label: Content
         required: false
         hint: Page content
-      - widget: object
-        name: aside
-        label: Aside content
+      - widget: image
+        name: aside_img_path
+        label: Aside Image
         required: false
-        hint: Sidenote that appears as an aside
-        fields:
-          - widget: image
-            name: aside_img_path
-            label: Aside Image
-            required: false
-            hint: The image shown at the aside.
-          - widget: string
-            name: aside_text
-            label: Aside Text
-            required: false
-            hint: Aside content
+        hint: The image shown at the aside.
+      - widget: string
+        name: aside_text
+        label: Aside Text
+        required: false
+        hint: Aside content
     filter:
       field: layout
       value: post

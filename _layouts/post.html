@@ -3,7 +3,7 @@ layout: body
 ---
 
 <div class="outer">
-  <div class="inner-medium">
+  <div class="inner-large postGrid">
 
     <article class="post post-full">
       <header class="post-header">
@@ -25,18 +25,6 @@ layout: body
       <div class="post-content">
         {{ content }}
       </div><!-- .post-content -->
-      {% assign aside_img_path_is_not_empty = page.aside_img_path | is_not_empty %}
-      {% if aside_img_path_is_not_empty %}
-      <div class="post-thumbnail">
-        <img src="{{ page.aside_img_path | relative_url }}" alt="{{ page.title }}" />
-      </div><!-- .post-thumbnail -->
-      {% endif %}
-      {% assign aside_text_is_not_empty = page.aside_text | is_not_empty %}
-      {% if aside_text_is_not_empty %}
-      <div class="post-aside">
-          {{ page.aside_text }}
-        </div><!-- .post-content -->
-      {% endif %}
 
       <footer class="post-meta">
         <time class="published"
@@ -44,6 +32,23 @@ layout: body
       </footer><!-- .post-meta -->
 
     </article><!-- .post -->
+
+    <aside>
+      {% assign aside_text_is_not_empty = page.aside_text | is_not_empty %}
+      {% if aside_text_is_not_empty %}
+      <h3>ALAM MO BA?</h3>
+      <div class="post-aside">
+        {{ page.aside_text }}
+      </div><!-- .post-content -->
+      {% endif %}
+      {% assign aside_img_path_is_not_empty = page.aside_img_path | is_not_empty %}
+      {% if aside_img_path_is_not_empty %}
+      <div class="post-thumbnail">
+        <img src="{{ page.aside_img_path | relative_url }}" alt="{{ page.title }}" />
+      </div><!-- .post-thumbnail -->
+      {% endif %}
+
+    </aside>
 
 
     <!-- Next/previous post navigation TBD -->

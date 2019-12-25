@@ -1,0 +1,7 @@
+.postGrid {
+    display: grid;
+  @media screen and (min-width: 768px) {
+    grid-template-columns: 4fr 1.5fr;
+    grid-gap: 2rem;
+  }
+}

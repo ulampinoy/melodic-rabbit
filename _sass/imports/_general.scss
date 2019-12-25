@@ -4,7 +4,7 @@
  */
 html {
   font-family: _font(primary);
-  font-size: 18px;
+  font-size: 1em;
   height: 100%;
   min-height: 100%;
 }
@@ -12,7 +12,8 @@ html {
 body {
   background: _palette(bg);
   color: _palette(primary);
-  font-size: 18px;
+  font-size: 1em;
+  font-weight: 400;
   line-height: 1.5;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
