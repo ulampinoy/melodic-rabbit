@@ -18,15 +18,18 @@ Ang baon ko ay pinaghalong tirang ulam at kung kailangan pa, hahanap o iimbento 
 
 ## BAON BOX: JAPCHAE, KIMCHI & CURRIED SCRAMBLED EGGS
 
-![baon sa tupper - japchae, kimchi, curried egg](https://www.ulampinoy.com/static/images/baon-japchae-kimchi-curried-egg.jpg?nf_resize=fit&w=960)
-
-Japchae (Korean noodles), kimchi at brown rice sa ilalim, curried scrambled eggs
+<figure>
+  <img src="https://www.ulampinoy.com/static/images/baon-japchae-kimchi-curried-egg.jpg?nf_resize=fit&w=960" alt="baon sa tupper - japchae, kimchi, curried egg">
+  <figcaption>
+  Japchae (Korean noodles), kimchi at brown rice sa ilalim, curried scrambled eggs
+  </figcaption>
+</figure>
 
 Ang back story ng baon: Para maiba naman ang handa, ***Japchae & Gyoza*** ang ginawa namin para sa aming mga bisita sa bahay noong Linggo. Korean noodle dish ang Japchae. Japanese dumpling naman ang Gyoza. Talagang nag-enjoy ang barkada sa mga *unexpected dishes!*
 
 ![Kimchi sa ref](https://www.ulampinoy.com/static/images/gyoza-cooking-pan.jpg?nf_resize=fit&w=960)
 
-**Ang Gyoza** ay niluluto sa pan skillet at hindi sa steamer gaya ng ibang dumplings. Ang \*technique\* na ito ay ang nagbibigay ng lutong dahil sa \*crust\* nito sa base pero makatas pa rin dahil para na rin itong napasingawan kapag tinakpan.
+**Ang Gyoza** ay niluluto sa pan skillet at hindi sa steamer gaya ng ibang dumplings. Ang *technique* na ito ay ang nagbibigay ng lutong dahil sa *crust* nito sa base pero makatas pa rin dahil para na rin itong napasingawan kapag tinakpan.
 
 ![Kimchi sa ref](https://www.ulampinoy.com/static/images/japchae-pot.jpg?nf_resize=fit&w=960)
 

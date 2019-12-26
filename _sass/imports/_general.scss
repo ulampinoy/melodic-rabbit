@@ -75,7 +75,7 @@ h6 {
 }
 
 p {
-  margin: 0 0 1.66667em;
+  margin: 1.25em 0 1.25em;
 }
 
 address {
@@ -375,11 +375,6 @@ video {
 img {
   height: auto;
   max-width: 100%;
-}
-
-.post-thumbnail img,
-.post-content img {
-  border-radius: 3px;
 }
 
 /* Heading underline */
